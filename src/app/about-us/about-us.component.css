@@ -1,0 +1,558 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+.about-us-xHE {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.about-us-xHE .frame-39229-peC {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 61.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #02011e;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-39229-peC .unsplash-syto3xs06fu-m3e {
+  width: 144rem;
+  height: 75.4rem;
+  position: absolute;
+  left: 0;
+  top: -0.3rem;
+  background-color: rgba(2, 1, 30, 0.6600000262);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('src/assets/unsplash-syto3xs06fu-bg.png');
+
+}
+
+.about-us-xHE .frame-39229-peC .frame-117-3mr {
+  width: 96.3rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 23.85rem;
+  top: 15rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .frame-39229-peC .frame-117-3mr .we-are-celetel-we-are-here-to-partner-growth-B7N {
+  margin-bottom: 1.8rem;
+  max-width: 76.2rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-39229-peC .frame-117-3mr .celetel-is-a-simplified-engagement-first-company-with-communications-at-its-core-celetel-comprises-new-gen-communications-specialists-with-over-20-years-of-experience-in-developing-engagement-tools-4BA {
+  max-width: 96.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #f5f5f5;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-39229-peC .group-134-6de {
+  opacity: 0.4;
+  width: 74.0022rem;
+  height: 47.9124rem;
+  position: absolute;
+  left: 0;
+  top: -10rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.about-us-xHE .auto-group-lh5i-uqz {
+  margin: 0rem 2.8rem 10.6rem 7.8rem;
+  width: calc(100% - 10.6rem);
+  height: 45.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-lh5i-uqz .frame-1686551685-pxx {
+  margin: 5.7rem 7rem 9.7rem 0rem;
+  height: calc(100% - 15.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-lh5i-uqz .frame-1686551685-pxx .about-us-kbi {
+  margin-bottom: 1.9rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #171717;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-lh5i-uqz .frame-1686551685-pxx .get-ready-to-welcome-a-holistic-suite-of-services-combining-data-driven-strategies-advanced-targeting-techniques-and-seamless-integration-of-cutting-edge-analytics-ai-powered-tools-and-multi-channel-strategies-this-orchestration-encompasses-audience-segmentation-ad-campaign-optimisation-content-personalisation-conversion-rate-optimisation-sem-management-affiliate-marketing-social-media-advertising-email-marketing-automation-and-robust-analytics-and-reporting-ibizo-will-maximises-roi-adapts-to-industry-dynamics-optimises-marketing-budgets-and-propels-businesses-to-their-full-digital-potential-in-the-ever-evolving-digital-landscape-firmly-positioning-them-at-the-forefront-of-industry-advancements-V3W {
+  max-width: 80.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  text-transform: capitalize;
+  color: #454545;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-lh5i-uqz .teamwork-of-young-people-with-laptop-X8c {
+  width: 45.6rem;
+  height: 45.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-1686551703-F4c {
+  margin-bottom: 18.7rem;
+  width: 100%;
+  height: 40.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #eaf3fd;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-1686551703-F4c .group-39181-PAp {
+  width: 32.9892rem;
+  height: 44.0227rem;
+  position: absolute;
+  left: 0;
+  top: -16.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.about-us-xHE .frame-1686551703-F4c .frame-1686551686-iTz {
+  width: 119.6rem;
+  height: 29.7rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-xHE .frame-1686551703-F4c .frame-1686551686-iTz .driving-success-through-innovation-FD2 {
+  margin-right: 6rem;
+  max-width: 46.4rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #171717;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-1686551703-F4c .frame-1686551686-iTz .performance-marketing-harnesses-granular-insights-to-identify-high-potential-segments-fine-tunes-campaigns-and-efficiently-allocates-resources-accelerating-sales-cycles-it-synergies-cutting-edge-analytics-ai-driven-tools-and-precise-targeting-to-amplify-the-visibility-of-innovative-ideas-acting-as-a-catalyst-for-idea-execution-and-sales-acceleration-this-approach-enhances-sales-acceleration-by-seamlessly-guiding-prospects-through-the-sales-pipeline-ensuring-efficient-lead-progression-the-result-is-a-dynamic-interplay-of-creativity-and-technical-precision-maximising-roi-and-propelling-sales-with-unparalleled-effectiveness-in-the-digital-landscape-AKz {
+  max-width: 67.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c6c6c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .frame-1686551703-F4c .group-39182-eeU {
+  width: 32.9892rem;
+  height: 44.0227rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.about-us-xHE .lets-meet-our-team-Yjr {
+  margin: 0rem 0rem 2.5rem 11rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #171717;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .lets-meet-our-team-Yjr .lets-meet-our-team-Yjr-sub-0 {}
+
+.about-us-xHE .lets-meet-our-team-Yjr .lets-meet-our-team-Yjr-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.about-us-xHE .introducing-our-performance-marketing-maestros-each-member-is-seasoned-in-performance-marketing-intricacies-to-bring-you-data-infused-success-QQg {
+  margin-left: 11.1rem;
+  max-width: 119.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c6c6c;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x {
+  width: 100%;
+  height: 150.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .unsplash-ofm3hmsoaa-Rag {
+  width: 122.2rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 4.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .heading-YvC {
+  width: 64rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 37.4rem;
+  top: 70.4rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 0.9166666667;
+  letter-spacing: -0.096rem;
+  color: #171717;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .supporting-text-47r {
+  width: 58.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 40rem;
+  top: 76.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c6c6c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .content-ZqJ {
+  width: 76.8rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 86.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .content-ZqJ .text-and-supporting-text-JH6 {
+  margin-right: 4.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .content-ZqJ .text-and-supporting-text-JH6 .text-r3i {
+  margin-bottom: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .content-ZqJ .text-and-supporting-text-JH6 .supporting-text-B5z {
+  max-width: 70rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #667084;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .content-ZqJ .icon-wrap-uGt {
+  margin-top: 0.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-dTn {
+  width: 76.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 97.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-dTn .divider-NAU {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #eaecf0;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-dTn .content-KLc {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-dTn .content-KLc .text-gS4 {
+  margin-right: 48.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-dTn .content-KLc .icon-wrap-Dgt {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-ZVr {
+  width: 76.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 106.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-ZVr .divider-hc4 {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #eaecf0;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-ZVr .content-4Bi {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-ZVr .content-4Bi .text-pRn {
+  margin-right: 44.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-ZVr .content-4Bi .icon-wrap-Z8U {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-hVa {
+  width: 76.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 114.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-hVa .divider-EVW {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #eaecf0;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-hVa .content-BQk {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-hVa .content-BQk .text-jx4 {
+  margin-right: 39.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-hVa .content-BQk .icon-wrap-Hig {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-DMS {
+  width: 76.8rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 123.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-DMS .divider-woE {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #eaecf0;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-DMS .content-tTa {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-DMS .content-tTa .text-r9W {
+  margin-right: 51.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-DMS .content-tTa .icon-wrap-nor {
+  margin-bottom: 0.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-jUC {
+  width: 76.8rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 132rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-jUC .divider-4mN {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #eaecf0;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-jUC .content-cXz {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-jUC .content-cXz .text-BLC {
+  margin-right: 37.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #101728;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-xHE .auto-group-gr2l-t4x .faq-item-jUC .content-cXz .icon-wrap-vHn {
+  margin-bottom: 0.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

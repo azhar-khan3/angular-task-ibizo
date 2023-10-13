@@ -1,0 +1,102 @@
+.group-1000001657-4XA {
+    box-sizing: border-box;
+    padding: 2.7rem 8.246rem 3.269rem 8rem;
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .logo-YKr {
+    margin: 0.669rem 54.5rem 0rem 0rem;
+    display: flex;
+    font-size: 2.6rem;
+    font-weight: 700;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .frame-21-nzt {
+    margin: 1.4rem 10.4rem 0.731rem 0rem;
+    height: calc(100% - 2.131rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .frame-21-nzt .home-i7r {
+    margin-right: 3.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.1725;
+    color: #2770fd;
+    font-family: Roboto, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .frame-21-nzt .frame-19-DqJ {
+    margin-right: 4rem;
+    width: 6.5rem;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.1725;
+    color: #272742;
+    font-family: Roboto, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .frame-21-nzt .services-uTE {
+    margin-right: 4rem;
+    display: flex;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.1725;
+    color: #272742;
+    font-family: Roboto, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .frame-21-nzt .contact-us-csS {
+    display: flex;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.1725;
+    color: #272742;
+    font-family: Roboto, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.group-1000001657-4XA .talk-to-expert-button-kCx {
+    width: 19.354rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5008rem;
+    font-weight: 600;
+    line-height: 0.9994669261;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    background-color: #111111;
+    border-radius: 0.4rem;
+    flex-shrink: 0;
+}
